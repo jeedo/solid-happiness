@@ -3,6 +3,7 @@
   "scripts": {
     "start": "node start.js"
   },
+  "main": "start.js",
   "dependencies": {
     "atlasboard": "~1.1.0"
   }
